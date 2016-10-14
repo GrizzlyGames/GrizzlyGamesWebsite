@@ -1,0 +1,212 @@
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\ApplicationInsights.config
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\csc.exe
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\System.Collections.Immutable.dll
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\vbc.exe
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\VBCSCompiler.exe
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\VBCSCompiler.exe.config
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\GrizzlyGamesSite.dll.config
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\GrizzlyGamesSite.dll
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\GrizzlyGamesSite.pdb
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\Antlr3.Runtime.dll
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.AI.Web.dll
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.AI.WindowsServer.dll
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.ApplicationInsights.dll
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.Web.Infrastructure.dll
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\Newtonsoft.Json.dll
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.Helpers.dll
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.Mvc.dll
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.Optimization.dll
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.Razor.dll
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.WebPages.Deployment.dll
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.WebPages.dll
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.WebPages.Razor.dll
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\WebGrease.dll
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.AI.Web.xml
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.AI.WindowsServer.xml
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.ApplicationInsights.xml
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.Helpers.xml
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.Mvc.xml
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.Optimization.xml
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.Razor.xml
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.WebPages.xml
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.WebPages.Deployment.xml
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.WebPages.Razor.xml
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\Antlr3.Runtime.pdb
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\bin\Newtonsoft.Json.xml
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\obj\Debug\GrizzlyGamesSite.csprojResolveAssemblyReference.cache
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\obj\Debug\GrizzlyGamesSite.dll
+c:\users\kyle\documents\visual studio 2015\Projects\GrizzlyGamesSite\GrizzlyGamesSite\obj\Debug\GrizzlyGamesSite.pdb
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\ApplicationInsights.config
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\csc.exe
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\vbc.exe
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\GrizzlyGamesSite.dll.config
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\GrizzlyGamesSite.dll
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\GrizzlyGamesSite.pdb
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\Antlr3.Runtime.dll
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.AI.Web.dll
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\Newtonsoft.Json.dll
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.Helpers.dll
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.Mvc.dll
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.Optimization.dll
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.Razor.dll
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.WebPages.dll
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\WebGrease.dll
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.AI.Web.xml
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.Helpers.xml
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.Mvc.xml
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.Optimization.xml
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.Razor.xml
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.WebPages.xml
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\Antlr3.Runtime.pdb
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\bin\Newtonsoft.Json.xml
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\obj\Debug\GrizzlyGamesSite.csprojResolveAssemblyReference.cache
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\obj\Debug\GrizzlyGamesSite.dll
+C:\Users\Kyle\Documents\GrizzlyGamesSite\GrizzlyGamesSite\obj\Debug\GrizzlyGamesSite.pdb
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\ApplicationInsights.config
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\csc.exe
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\System.Collections.Immutable.dll
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\System.Reflection.Metadata.dll
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\vbc.exe
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\VBCSCompiler.exe
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\VBCSCompiler.exe.config
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\GrizzlyGamesSite.dll.config
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\GrizzlyGamesSite.dll
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\GrizzlyGamesSite.pdb
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\Antlr3.Runtime.dll
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.AI.Agent.Intercept.dll
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.AI.DependencyCollector.dll
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.AI.Web.dll
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.AI.WindowsServer.dll
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.ApplicationInsights.dll
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.Web.Infrastructure.dll
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\Newtonsoft.Json.dll
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.Helpers.dll
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.Mvc.dll
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.Optimization.dll
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.Razor.dll
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.WebPages.Deployment.dll
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.WebPages.dll
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.WebPages.Razor.dll
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\WebGrease.dll
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.AI.DependencyCollector.xml
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.AI.Web.xml
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.AI.WindowsServer.xml
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.ApplicationInsights.xml
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.Helpers.xml
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.Mvc.xml
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.Optimization.xml
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.Razor.xml
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.WebPages.xml
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.WebPages.Deployment.xml
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.WebPages.Razor.xml
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\Antlr3.Runtime.pdb
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\bin\Newtonsoft.Json.xml
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\obj\Debug\GrizzlyGamesSite.dll
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\obj\Debug\GrizzlyGamesSite.pdb
+G:\FireFox Downloads\GrizzlyGamesSite\GrizzlyGamesSite\obj\Debug\GrizzlyGamesSite.csprojResolveAssemblyReference.cache
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\ApplicationInsights.config
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\csc.exe
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\vbc.exe
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\VBCSCompiler.exe
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\GrizzlyGamesSite.dll.config
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\GrizzlyGamesSite.dll
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\GrizzlyGamesSite.pdb
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\Antlr3.Runtime.dll
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.AI.Web.dll
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\Newtonsoft.Json.dll
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.Helpers.dll
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.Mvc.dll
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.Optimization.dll
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.Razor.dll
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.WebPages.dll
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.WebPages.Razor.dll
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\WebGrease.dll
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.AI.Web.xml
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.Helpers.xml
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.Mvc.xml
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.Optimization.xml
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.Razor.xml
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.WebPages.xml
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\System.Web.WebPages.Razor.xml
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\Antlr3.Runtime.pdb
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\bin\Newtonsoft.Json.xml
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\obj\Debug\GrizzlyGamesSite.csprojResolveAssemblyReference.cache
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\obj\Debug\GrizzlyGamesSite.dll
+C:\Users\Grizzly\Documents\Grizzly Website\GrizzlyGamesSite\GrizzlyGamesSite\obj\Debug\GrizzlyGamesSite.pdb

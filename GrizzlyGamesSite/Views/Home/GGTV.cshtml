@@ -1,0 +1,76 @@
+﻿<style>
+    img {
+        opacity: 0.5;
+        filter: alpha(opacity=85); /* For IE8 and earlier */
+    }
+
+        img:hover {
+            opacity: 1.0;
+            filter: alpha(opacity=100); /* For IE8 and earlier */
+        }
+</style>
+
+<script>
+    (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+
+<body class="col-md-12">
+    <h1><strong>Grizzly Games TV (GGTV)</strong></h1>
+    <hr />
+    <div class="col-md-12">
+        <div class="embed-responsive embed-responsive-16by9">
+            <iframe src="https://player.twitch.tv/?channel=grizzly_gamestv" frameborder="0"></iframe>
+        </div>
+
+        <div class="col-md-6">
+            <h4>Chat with us!</h4>
+            <div class="embed-responsive embed-responsive-16by9">
+                <iframe frameborder="0"
+                        scrolling="no"
+                        id="chat_embed"
+                        src="http://www.twitch.tv/Grizzly_GamesTV/chat"></iframe>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <a href="https://twitch.streamlabs.com/grizzly_gamestv" target="_blank"><h4>Click to Donate</h4></a>
+            <a href="https://twitch.streamlabs.com/grizzly_gamestv" target="_blank"><img src="~/Content/Images/DonationPanel.png" class="img-responsive center-block" /></a>
+            <a href="https://twitch.streamlabs.com/grizzly_gamestv" target="_blank"><h4>Click to Donate</h4></a>
+        </div>
+        <div class="col-md-3">
+            <a href="https://www.revlo.co/grizzly_gamestv" target="_blank"><h4>Click to Redeem</h4></a>
+            <a href="https://www.revlo.co/grizzly_gamestv" target="_blank"><img src="~/Content/Images/RewardsPanel.png" class="img-responsive center-block" /></a>
+            <a href="https://www.revlo.co/grizzly_gamestv" target="_blank"><h4>Click to Redeem</h4></a>
+        </div>
+    </div>
+    <div class="col-md-12">
+        <br />
+        <h3>Additional Info</h3>
+        <hr />
+        <div class="col-md-3">
+            <a href="http://www.grizzlygames.co/Home/About" target="_blank"><img src="~/Content/Images/AboutPanel.png" class="img-responsive center-block" /></a>
+        </div>
+        <div class="col-md-3">
+            <a href="https://www.youtube.com/channel/UCxWD9WaEUQcBcuoK8ypnwuw" target="_blank"><img src="~/Content/Images/YoutubePanel.png" class="img-responsive center-block" /></a>
+            <br />
+            <script src="https://apis.google.com/js/platform.js"></script>
+            <div class="g-ytsubscribe" data-channelid="UCxWD9WaEUQcBcuoK8ypnwuw" data-layout="default" data-count="default"></div>
+        </div>
+        <div class="col-md-3">
+            <a href="https://www.facebook.com/GrizzlyGamesCo/" target="_blank"><img src="~/Content/Images/FacebookPanel.png" class="img-responsive center-block" /></a>
+            <br />
+            <div class="fb-like" data-href="https://www.facebook.com/GrizzlyGamesCo/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+        </div>
+        <div class="col-md-3">
+            <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+            <a href="https://mobile.twitter.com/GrizzlyGamesCo" target="_blank"><img src="~/Content/Images/TwitterPanel.png" class="img-responsive center-block" /></a>
+            <br />
+            <a href="https://twitter.com/GrizzlyGamesCo" class="twitter-follow-button" data-show-count="false">Follow GrizzlyGamesCo</a>
+        </div>
+    </div>
+</body>

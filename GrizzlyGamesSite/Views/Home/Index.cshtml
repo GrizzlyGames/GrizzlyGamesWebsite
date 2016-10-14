@@ -1,0 +1,124 @@
+﻿<script>
+    (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+
+<head>
+    @Styles.Render("~/Content/css")
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+        Index - Grizzly Games
+    </title>
+</head>
+<body class="col-md-12 text-center" style="padding-top: 25px;">
+    <img src="~/Content/Images/GrizzlyGamesWebsiteHeader.png" class="img-responsive center-block" />
+    <div class="col-md-12" style="padding-top: 50px;  padding-bottom: 25px;">
+        <div class="col-md-3">
+            <a href="http://grizzlygames.co/Home/About"><span class="glyphicon glyphicon-info-sign" style="color:white; font-size: 150px;"></span><h2>About</h2></a>
+        </div>
+        <div class="col-md-3">
+            <a href="http://grizzlygames.co/Home/Social"><span class="glyphicon glyphicon-user" style="color:white; font-size: 150px;"></span><h2>Social</h2></a>
+        </div>
+        <div class="col-md-3">
+            <a href="http://grizzlygames.co/Home/GGTV"><span class="glyphicon glyphicon-facetime-video" style="color:white; font-size: 150px;"></span><h2>Live Stream</h2></a>
+        </div>
+        <div class="col-md-3">
+            <a href="http://grizzlygames.co/Video"><span class="glyphicon glyphicon-film" style="color:white; font-size: 150px;"></span><h2>Video</h2></a>
+        </div>
+    </div>
+    <div class="col-md-12">
+        <h6 style="color: #2A2A2A">.</h6>
+        <hr />
+        <div class="col-md-6">
+            <a href="http://grizzlygames.co/Home/Game"><h1 style="font-size: 100px;"><strong>Games</strong></h1></a>
+        </div>
+        <div class="col-md-6">
+            <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TGW6A7M2GXMCS" target="_blank"><h1 style="font-size: 100px;"><strong>Donate</strong></h1></a>
+        </div>
+    </div>
+    <!--
+        <div class="col-md-12 text-center">
+        <hr />
+        <h1><strong>Download our <u>FREE</u> games today!</strong></h1>
+        <hr />
+        <div class="col-md-6">
+            <h2><strong>Migrating Martians</strong></h2>
+            <div class="col-md-12">
+                <a href="https://play.google.com/store/apps/details?id=com.GrizzlyGames.Invadarz&hl=en"><h3 style="color:red;"><strong>Google Play</strong></h3></a>
+            </div>
+            <img src="~/Content/Images/InvadarsSplash.png" class="img-responsive" />
+            <h4>
+                The same old space invaders feel we love with new touch-screen mechanics.
+                Bring back the familiar feeling of impending alien conquest with a faster pace and new invaders to out play.
+            </h4>
+        </div>
+
+        <div class="col-md-6">
+            <h2><strong>Marionette Melee</strong></h2>
+            <div class="col-md-12 text-center">
+                <a href="https://play.google.com/store/apps/details?id=com.MillenniumArtsSoftwareStudioInc.MarionetteMelee&hl=en"><h3 style="color:red;"><strong>Google Play</strong></h3></a>
+            </div>
+            <img src="~/Content/Images/Marionette Melee Splash Page.png" class="img-responsive" />
+            <h4>
+                Join and battle armoured foes in our turn based fighting game.
+                Take on your enemies to save the princess and collect unique loot along the way that will aid you in your quest.
+            </h4>
+        </div>
+    </div>
+    <div class="col-md-12 text-center">
+        <hr />
+        <h1><strong>Live streams & video playthroughs</strong></h1>
+        <hr />
+        <div class="col-md-6">
+            <h2><strong>Twitch Channel</strong></h2>
+            <a href="https://www.twitch.tv/grizzly_gamestv"><h3><strong>Grizzly_GamesTV</strong></h3></a>
+            <div class="embed-responsive embed-responsive-16by9">
+                <iframe src="https://player.twitch.tv/?channel=grizzly_gamestv" frameborder="0"></iframe>
+            </div>
+            <h4>Interact with your favourite Grizzly Gamers as they play new and old games live for your enjoyment!</h4>
+        </div>
+
+        <div class="col-md-6">
+            <h2><strong>Youtube Channel</strong></h2>
+            <a href="https://www.youtube.com/channel/UCxWD9WaEUQcBcuoK8ypnwuw"><h3><strong>Grizzly Games</strong></h3></a>
+            <div class="embed-responsive embed-responsive-16by9">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLT7_p2S27TFYcoTU06e3HjoFvUiG2M2FM" frameborder="0" allowfullscreen></iframe>
+            </div>
+            <h4>Rewatch your favourite live streams as your favourite Grizzly Games play through a variety of games.</h4>
+        </div>
+    </div>
+    <div class="col-md-12 text-center">
+        <hr />
+        <h1><strong>Stay connected through our social media</strong></h1>
+        <hr />
+        <div class="col-md-6">
+            <h2><strong>Facebook</strong></h2>
+            <a href="https://www.facebook.com/GrizzlyGamesCo/"><h3><strong>Grizzly Games Co</strong></h3></a>
+            <br />
+            <div class="fb-like" data-href="https://www.facebook.com/GrizzlyGamesCo/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+            <br />
+            <br />
+            <div class="fb-page" data-href="https://www.facebook.com/GrizzlyGamesCo/" data-tabs="timeline" data-width="500" data-height="540" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false">
+                <blockquote cite="https://www.facebook.com/GrizzlyGamesCo/" class="fb-xfbml-parse-ignore">
+                    <a href="https://www.facebook.com/GrizzlyGamesCo/">Grizzly Games</a>
+                </blockquote>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <h2><strong>Twitter</strong></h2>
+            <a href="https://twitter.com/GrizzlyGamesCo"><h3><strong>Grizzly Games Co</strong></h3></a>
+            <br />
+            <a href="https://twitter.com/GrizzlyGamesCo" class="twitter-follow-button" data-show-count="false">Follow GrizzlyGamesCo</a>
+            <a class="twitter-timeline" data-width="500" data-height="600" href="https://twitter.com/GrizzlyGamesCo">Tweets by GrizzlyGamesCo</a>
+            <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </div>
+    </div>
+    -->
+</body>
