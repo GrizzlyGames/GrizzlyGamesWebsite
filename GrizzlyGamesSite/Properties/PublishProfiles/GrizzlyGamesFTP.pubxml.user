@@ -176,7 +176,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>09/21/2016 00:41:39</publishTime>
     </File>
     <File Include="Content/Site.css">
-      <publishTime>10/14/2016 11:53:56</publishTime>
+      <publishTime>10/14/2016 23:54:22</publishTime>
     </File>
     <File Include="Content/Videos/grizzlygamesco_Video_126.mp4">
       <publishTime>10/14/2016 11:48:22</publishTime>
@@ -266,10 +266,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/14/2016 00:15:53</publishTime>
     </File>
     <File Include="Views/Home/GGTV.cshtml">
-      <publishTime>10/14/2016 00:29:45</publishTime>
+      <publishTime>10/14/2016 23:55:54</publishTime>
     </File>
     <File Include="Views/Home/Index.cshtml">
-      <publishTime>10/14/2016 23:33:16</publishTime>
+      <publishTime>10/14/2016 23:36:45</publishTime>
     </File>
     <File Include="Views/Home/Social.cshtml">
       <publishTime>10/14/2016 00:37:47</publishTime>
@@ -281,7 +281,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>08/24/2016 23:46:37</publishTime>
     </File>
     <File Include="Views/Shared/_Layout.cshtml">
-      <publishTime>10/14/2016 00:16:50</publishTime>
+      <publishTime>10/14/2016 23:38:32</publishTime>
     </File>
     <File Include="Views/Video/CallofDutyModernWarfare.cshtml">
       <publishTime>09/17/2016 02:52:57</publishTime>
