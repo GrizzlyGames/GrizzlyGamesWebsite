@@ -20,7 +20,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>08/24/2016 23:46:50</publishTime>
     </File>
     <File Include="bin/GrizzlyGamesSite.dll">
-      <publishTime>10/14/2016 00:34:53</publishTime>
+      <publishTime>10/14/2016 23:30:14</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
       <publishTime>12/07/2015 19:04:38</publishTime>
@@ -176,7 +176,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>09/21/2016 00:41:39</publishTime>
     </File>
     <File Include="Content/Site.css">
-      <publishTime>10/13/2016 16:23:52</publishTime>
+      <publishTime>10/14/2016 11:53:56</publishTime>
+    </File>
+    <File Include="Content/Videos/grizzlygamesco_Video_126.mp4">
+      <publishTime>10/14/2016 11:48:22</publishTime>
     </File>
     <File Include="favicon.ico">
       <publishTime>08/24/2016 23:46:37</publishTime>
@@ -251,7 +254,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>09/20/2016 17:02:43</publishTime>
     </File>
     <File Include="Views/Home/About.cshtml">
-      <publishTime>10/14/2016 00:28:49</publishTime>
+      <publishTime>10/14/2016 23:34:40</publishTime>
     </File>
     <File Include="Views/Home/Community.cshtml">
       <publishTime>09/22/2016 01:49:10</publishTime>
@@ -266,7 +269,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/14/2016 00:29:45</publishTime>
     </File>
     <File Include="Views/Home/Index.cshtml">
-      <publishTime>10/14/2016 00:39:24</publishTime>
+      <publishTime>10/14/2016 23:33:16</publishTime>
     </File>
     <File Include="Views/Home/Social.cshtml">
       <publishTime>10/14/2016 00:37:47</publishTime>
@@ -305,7 +308,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>08/24/2016 23:46:37</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>10/13/2016 15:34:53</publishTime>
+      <publishTime>10/14/2016 23:30:21</publishTime>
     </File>
   </ItemGroup>
 </Project>
