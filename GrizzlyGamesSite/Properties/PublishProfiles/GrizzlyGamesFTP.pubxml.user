@@ -20,7 +20,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>08/24/2016 23:46:50</publishTime>
     </File>
     <File Include="bin/GrizzlyGamesSite.dll">
-      <publishTime>10/14/2016 23:30:14</publishTime>
+      <publishTime>10/15/2016 22:18:24</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
       <publishTime>12/07/2015 19:04:38</publishTime>
@@ -142,6 +142,9 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="Content/Images/ComputerPanel.png">
       <publishTime>09/21/2016 00:41:49</publishTime>
     </File>
+    <File Include="Content/Images/Donate.png">
+      <publishTime>10/15/2016 22:11:45</publishTime>
+    </File>
     <File Include="Content/Images/DonationPanel.png">
       <publishTime>09/21/2016 00:25:48</publishTime>
     </File>
@@ -171,6 +174,9 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     </File>
     <File Include="Content/Images/TwitterPanel.png">
       <publishTime>09/21/2016 00:41:41</publishTime>
+    </File>
+    <File Include="Content/Images/Video-Game-Controller-Icon White-Small.png">
+      <publishTime>10/15/2016 21:56:44</publishTime>
     </File>
     <File Include="Content/Images/YoutubePanel.png">
       <publishTime>09/21/2016 00:41:39</publishTime>
@@ -269,7 +275,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/14/2016 23:55:54</publishTime>
     </File>
     <File Include="Views/Home/Index.cshtml">
-      <publishTime>10/14/2016 23:36:45</publishTime>
+      <publishTime>10/15/2016 22:33:08</publishTime>
     </File>
     <File Include="Views/Home/Social.cshtml">
       <publishTime>10/14/2016 00:37:47</publishTime>

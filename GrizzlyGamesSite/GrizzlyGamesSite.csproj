@@ -162,6 +162,7 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Images\AboutPanel.png" />
     <Content Include="Content\Images\ComputerPanel.png" />
+    <Content Include="Content\Images\Donate.png" />
     <Content Include="Content\Images\DonationPanel.png" />
     <Content Include="Content\Images\FacebookPanel.png" />
     <Content Include="Content\Images\GG_Logo.jpg" />
@@ -172,6 +173,7 @@
     <Content Include="Content\Images\RewardsPanel.png" />
     <Content Include="Content\Images\RyanProfile.jpg" />
     <Content Include="Content\Images\TwitterPanel.png" />
+    <Content Include="Content\Images\Video-Game-Controller-Icon White-Small.png" />
     <Content Include="Content\Images\YoutubePanel.png" />
     <Content Include="Content\Videos\grizzlygamesco_Video_126.mp4" />
     <Content Include="favicon.ico" />
